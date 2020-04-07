@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\AsalSayıÖdev\AsalSayıÖdev\bin\Debug\AsalSayıÖdev.exe.config
+C:\Users\Lenovo\source\repos\AsalSayıÖdev\AsalSayıÖdev\bin\Debug\AsalSayıÖdev.exe
+C:\Users\Lenovo\source\repos\AsalSayıÖdev\AsalSayıÖdev\bin\Debug\AsalSayıÖdev.pdb
+C:\Users\Lenovo\source\repos\AsalSayıÖdev\AsalSayıÖdev\obj\Debug\AsalSayıÖdev.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\AsalSayıÖdev\AsalSayıÖdev\obj\Debug\AsalSayıÖdev.Form1.resources
+C:\Users\Lenovo\source\repos\AsalSayıÖdev\AsalSayıÖdev\obj\Debug\AsalSayıÖdev.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AsalSayıÖdev\AsalSayıÖdev\obj\Debug\AsalSayıÖdev.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AsalSayıÖdev\AsalSayıÖdev\obj\Debug\AsalSayıÖdev.exe
+C:\Users\Lenovo\source\repos\AsalSayıÖdev\AsalSayıÖdev\obj\Debug\AsalSayıÖdev.pdb
